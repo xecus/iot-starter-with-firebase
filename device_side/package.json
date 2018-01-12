@@ -1,0 +1,15 @@
+{
+  "name": "iot-with-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^5.8.0",
+    "serialport": "^6.0.4"
+  }
+}
